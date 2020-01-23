@@ -1,0 +1,16 @@
+{
+  "name": "arrayShift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array-shift.js",
+  "scripts": {
+    "start": "node index.js", 
+       "test": "jest --verbose --coverage"  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0"
+  }
+}
